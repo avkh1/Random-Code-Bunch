@@ -126,20 +126,22 @@ double parseParentheses(const std::string& expr, size_t& pos) {
 
 int main() {
 
-    std::cout << " ____  ____  _      _____   ____  ____  _      ____  ____  _     \n";
-    std::cout << "/ ___\\/  _ \\/ \\__/|/  __/  /  __\\/  _ \\/ \\  /|/  _ \\/  _ \\/ \\__/|\n";
-    std::cout << "|    \\| / \\|| |\\/|||  \\    |  \\/|| / \\|| |\\ ||| | \\|| / \\|| |\\/||\n";
-    std::cout << "\\___ || \\_/|| |  |||  /_   |    /| |-||| | \\||| |_/|| \\_/|| |  ||\n";
-    std::cout << "\\____/\\____/\\_/  \\|\\____\\  \\_/\\_\\\\_/ \\|\\_/  \\|\\____/\\____/\\_/  \\|\n";
-    std::cout << "   ____  ____  _     ____  _     _     ____  _____  ____  ____     \n";
-    std::cout << "  /   _\\/  _ \\/ \\   /   _\\/ \\ /\\/ \\   /  _ \\/__ __\\/  _ \\/  __\\    \n";
-    std::cout << "  |  /  | / \\|| |   |  /  | | ||| |   | / \\|  / \\  | / \\||  \\/|    \n";
-    std::cout << "  |  \\__| |-||| |_\\/|  \\__| \\_/|| |_\\/| |-||  | |  | \\_/||    /    \n";
-    std::cout << "  \\____/\\_/ \\|\\____/\\____/\\____/\\____/\\_/ \\|  \\_/  \\____/\\_/\\_\\    \n";
-    std::cout << "                                                   .version 1.1\n";
-    std::cout << "Verfugbare Symbole: + - * / ^ ( )\n";
-    std::cout << "Beispiel: 1 + 2 * (3 ^ 2) / 4\n";
-    std::cout << "Geben Sie die Formel ein: ";
+    // Willkommensnachricht
+    std::cout 
+        << " ____  ____  _      _____   ____  ____  _      ____  ____  _     \n"
+        << "/ ___\\/  _ \\/ \\__/|/  __/  /  __\\/  _ \\/ \\  /|/  _ \\/  _ \\/ \\__/|\n"
+        << "|    \\| / \\|| |\\/|||  \\    |  \\/|| / \\|| |\\ ||| | \\|| / \\|| |\\/||\n"
+        << "\\___ || \\_/|| |  |||  /_   |    /| |-||| | \\||| |_/|| \\_/|| |  ||\n"
+        << "\\____/\\____/\\_/  \\|\\____\\  \\_/\\_\\\\_/ \\|\\_/  \\|\\____/\\____/\\_/  \\|\n" 
+        << "   ____  ____  _     ____  _     _     ____  _____  ____  ____     \n"
+        << "  /   _\\/  _ \\/ \\   /   _\\/ \\ /\\/ \\   /  _ \\/__ __\\/  _ \\/  __\\    \n" 
+        << "  |  /  | / \\|| |   |  /  | | ||| |   | / \\|  / \\  | / \\||  \\/|    \n"
+        << "  |  \\__| |-||| |_\\/|  \\__| \\_/|| |_\\/| |-||  | |  | \\_/||    /    \n" 
+        << "  \\____/\\_/ \\|\\____/\\____/\\____/\\____/\\_/ \\|  \\_/  \\____/\\_/\\_\\    \n"
+        << "                                                   .version 1.1\n"
+        << "Verfugbare Symbole: + - * / ^ ( )\n"
+        << "Beispiel: 1 + 2 * (3 ^ 2) / 4\n"
+        << "Geben Sie die Formel ein: ";
 
     std::string expr;
     std::getline(std::cin, expr);
@@ -149,18 +151,16 @@ int main() {
         double result = parseExpression(expr, pos);
         skipWhitespace(expr, pos);
         if (pos < expr.size()) {
-            std::cerr << "Fehler: Nicht alle Zeichen der Formel wurden verarbeitet" << std::endl;
+            std::cerr << std::endl << "Fehler: Nicht alle Zeichen der Formel wurden verarbeitet" << std::endl << std::endl;
             return 1;
         }
-        std::cout << "\nErgebnis: " << result << std::endl;
+        std::cout << std::endl << "Ergebnis: " << result << std::endl << std::endl;
     }
     catch (const std::exception& e) {
-        std::cerr << "Fehler: " << e.what() << std::endl;
+        std::cerr << std::endl << "Fehler: " << e.what() << std::endl << std::endl;
         return 1;
     }
 
-    // Warten auf eine Eingabe des Benutzers, bevor das Programm beendet wird
-    std::cin.get();
-
+    system("pause");
     return 0;
 }
