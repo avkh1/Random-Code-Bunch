@@ -28,13 +28,13 @@ int main() {
     int rows = (totalSymbols + columns - 1) / columns; // Aufrunden von totalSymbols / columns
 
     // Willkommensnachricht
-    std::cout 
+    std::cout
         << " ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ \n"
         << "||A |||S |||C |||I |||I |||- |||T |||a |||b |||e |||l |||l |||e ||\n"
         << "||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||\n"
         << "|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|/__\\|\n"
         << "                                                       char2 v1.1\n"
-        << endl;
+        << std::endl;
 
     // Ausgabe der Tabelle
     for (int row = 0; row < rows; ++row) {
@@ -58,11 +58,11 @@ int main() {
     }
 
     // Symbole ohne Nummern, getrennt durch Leerzeichen
-    std::cout << endl;
+    std::cout << std::endl;
     for (const auto& symbol : symbols) {
         std::cout << symbol.second << ' ';
     }
-    std::cout << endl;
+    std::cout << std::endl;
 
     // Auf anykey warten
     std::cin.get();
