@@ -62,10 +62,9 @@ int main() {
     for (const auto& symbol : symbols) {
         std::cout << symbol.second << ' ';
     }
-    std::cout << std::endl;
 
-    // Auf anykey warten
-    std::cin.get();
+    std::cout << std::endl << std::endl;
+    system("pause");
 
     return 0;
 }
