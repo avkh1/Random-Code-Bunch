@@ -1,4 +1,4 @@
-// Char2 v1.1
+// char2 v1.1
 // Gibt ASCII-Zeichen aus
 // Andrei Avkhimovich
 // for fun \o/
