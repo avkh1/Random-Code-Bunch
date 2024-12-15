@@ -69,7 +69,7 @@ The program may freeze or become unresponsive when working with large images, es
 3. Run the program by executing the main script:
 
     ```
-    python main.py
+    python project.py
     ```
 
 Enjoy creating and experimenting with images!
