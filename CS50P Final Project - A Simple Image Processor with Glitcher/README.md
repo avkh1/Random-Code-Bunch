@@ -1,4 +1,4 @@
-﻿# A Simple Image Processor with Glitcher
+# A Simple Image Processor with Glitcher
 #### Video Demo: https://youtu.be/ayPcodJbyGc
 #### Description:
 
@@ -10,7 +10,7 @@ A simple but fun and useful tool that lets users create awesome images with just
 
 - **Preview**: See all changes in real-time in the preview area.
 - **Reset**: Resets the image to its original state and clears all applied effects.
-- **Multiply**: Saves the current state of the image, allowing further effects to be applied without reverting to the original state. This allows users to stack effects iteratively. Warning: This function does not multiplying the glitch effect!
+- **Multiply**: Saves the current state of the image, allowing further effects to be applied without reverting to the original state. This allows users to stack effects iteratively.
 - **Do Some Art**: Applies a glitch effect by corrupting parts of the image's binary data. The corruption is controlled by the Block Size slider, which determines the length of corrupted blocks.
 - **Save Image**: Save the modified image as a JPEG file.
 - **Load Image**: Load an image (JPEG or PNG) for editing.
