@@ -1,0 +1,632 @@
+﻿
+#
+1 1 Welche der folgenden Elemente sind Bestandteil des SAP-Bildaufbaus im SAP GUI? (3 richtige Antworten)
+-+-++
+1 Programmname
+2 Systemfunktionsleiste
+3 Transaktionstest
+4 Kommandofeld
+5 Registerkarte
+
+#
+1 2 Was sind die Merkmale des Geschäftspartnerstamms? (2 richtige Antworten)
+++--
+1 Geschäftspartner können in manchen Prozessen als Debitoren und in anderen als Kreditoren agieren
+2 Debitoren- und Kreditorenstammdaten können in SAP S4/HANA in einer einzigen Transaktion gepflegt werden
+3 Debitoren- und Kreditorenstammdaten müssen in SAP S4/HANA in separaten Transaktionen gepflegt werden
+4 Die Vertriebsdaten für Debitoren werden im SD-Modul gepflegt
+
+#
+1 3 Was ist die richtige Reihenfolge für die Kundenauftragsabwicklung? (1 richtige Antwort)
+----
+1 Kundenauftrag – Kommissionierung –
+2 Kundenauftrag – Auslieferung – Kommissionierung – Warenausgang –
+3 Kommissionierung – Kundenauftrag – Auslieferung –
+4 Kundenauftrag – Kommissionierung – Auslieferung –
+
+#
+1 4 Wie können Sie den technischen Namen eines Felds im SAP GUI ermitteln? (1 richtige Antwort)
+----
+1 Die Online-Hilfe-Bibliothek öffnen und nach dem
+2 Die
+3 Die Eingabehilfe für das
+4 Den Cursor auf dem
+
+#
+1 5 Was ist ein Merkmal virtueller Datenmodelle (VDM)? (1 richtige Antwort)
+-+--
+1 Sie enthalten eine feste Anzahl von Schichten
+2 Sie bestehen aus einer Hierarchie von Views
+3 Sie existiert nur vorübergehend
+4 Sie ermöglichen einen direkten Zugriff auf die Datenbanktabellen
+
+#
+1 6 Welches Werkzeug in SAP S/4HANA Embedded Analytics wird von SAP für den BI-Self-Service empfohlen? (1 richtige Antwort)
+----
+1 SAP NetWeaver BI
+2 Analytische SAP
+3 SAP Analysis für Microsoft Office
+4 SAP Lumira
+
+#
+1 7 Was sind die wichtigsten Aspekte der Bestandsführung? (3 richtige Antworten)
++--++
+1 Die Profitabilität von Produkten wird in Echtzeit berechnet
+2 Kosten können durch einen kontinuierlichen
+3 Extensive Bestandsbewegungen werden stets als Batch-Prozess ausgeführt
+4 Kleinere Losgrößen können nach Bedarf verarbeitet werden
+5 Da die Bestandsführung in Echtzeit erfolgt, sind keine Pufferbestände zum Ausgleich von Ungenauigkeiten mehr erforderlich
+
+#
+1 8 Welche der folgenden Informationen können in der SAP-GUI-Statusleiste im Standardsystem angezeigt werden? (3 richtige Antworten)
++++--
+1 Programmname
+2 Antwortzeit
+3 Benutzer-ID
+4 Name des Unternehmens
+5 Uhrzeit
+
+#
+1 9 Welche der folgenden Werkzeuge sind im Lieferumfang von SAP S/4HANA Embedded Analytics enthalten? (3 richtige Antworten)
+++---
+1 Mehrdimensionales
+2 Abfrage-Browser
+3 Analytische SAP
+4 SAP Predictive Analytics
+5 SAP Lumira
+
+#
+1 10 Eine Warenlieferung sollte stets zuerst einer Qualitätsprüfung unterzogen werden. Wie können Sie das beim Buchen des Wareneingangs berücksichtigen? (1 richtige Antwort)
+--+-
+1 Sie buchen den Wareneingang auf den Lagerort "Qualitätsprüfung"
+2 Sie buchen den Wareneingang auf einen separaten Lagerort
+3 Sie buchen den Wareneingang und geben die Lagerbestandsart "Qualitätsprüfung" an
+4 Sie verwenden die Logistics Execution, um den Qualitätsprüfungsprozess einzuschließen
+
+#
+1 11 Welche der folgenden Elemente sind Einstellungsebenen für das SAP Fiori Launchpad? (3 richtige Antworten)
+++-+-
+1 Konfiguration
+2 Customizing
+3 Kataloge
+4 Personalisierung
+5 Datenelemente
+
+#
+1 12 Welche Analysefunktionen bietet die SAP-Fiori-App: Sachkontenstammdaten verwalten? (2 richtige Antworten)
++--+
+1 Detailinformationen zum Sachkonto
+2 Offene Posten
+3 Marktsegment
+4 Verwendungsnachweis
+
+#
+1 13 Was sind die Merkmale von Buchungsbelegen? (2 richtige Antworten)
+-+-+
+1 Beim Buchen von Aufwänden und Erträgen darf keine kostenrelevante Kontierung verwendet werden
+2 Der Beleg, der die Buchung auslöst, wird im SAP-System angezeigt
+3 In jeder Belegposition können mehrere Sachkonten erfasst werden
+4 Sie bestehen aus zwei oder mehr Belegpositionen
+
+#
+1 14 Welche der folgenden Module sind Bestandteil der Finanzbuchhaltung in SAP S/4HANA? (3 richtige Antworten)
++-+-+
+1 Kreditorenbuchhaltung
+2 Gemeinkosten-Controlling
+3 Hauptbuchhaltung
+4 Ergebnis- und Marktsegmentrechnung
+5 Debitorenbuchhaltung
+
+#
+1 15 Über welche Funktion kopieren Sie eine SAP-Fiori-App aus der SAP-Bibliothek in ihr SAP-Fiori-Launchpad? (1 richtige Antwort)
+---
+1 Benutzerpflege (Transaktion SU01)
+2 SAP
+3 Rollenpflege (Transaktion PFCG)
+
+#
+1 16 Woran erkennen Sie, dass die Anwendungen in SAP Logistik (SAP S/4HANA) vereinfacht wurden? (2 richtige Antworten)
++-+-
+1 Die Planung mit einer Losgröße von 1 ist jetzt in der Materialbedarfsplanung möglich
+2 Die Planung mit einer Losgröße von 1 ist in der Materialbedarfsplanung nicht möglich
+3 Die plangesteuerte Disposition ist ein Echtzeitprozess
+4 Verwendung von Logistics Execution
+
+#
+1 17 Welche sind die Hauptaufgaben der Hauptbuchhaltung im SAP-System? (3 richtige Antworten)
+-+++-
+1 Offene Posten für Kunden analysieren
+2 Einzelposten und Salden von Konten anzeigen
+3 Bilanzen unterhalb der Buchungskreisebene (z.B. Segment oder Profitcenter) erstellen
+4 Bilanzen/GuV für einen Buchungskreis erstellen und anzeigen
+5 Abschreibungen für das Anlagevermögen berechnen
+
+#
+1 18 Inwiefern vereinfacht die SAP-HANA-Plattform das Reporting? (2 richtige Antworten)
++--+
+1 Alle Analysen werden direkt in den Transaktionstabellen durchgeführt
+2 Die Analysedaten werden durch periodisch eingeplante Hintergrundjob aggregiert
+3 Die Datenextraktion erfolgt online und automatisch
+4 OLTP und OLAP werden auf einer einzelnen In-Mamory-Plattform miteinander kombiniert
+
+#
+1 19 Sie bearbeiten einen Kundenauftrag, der bereits fakturiert wurde. Wo finden Sie die FI-Einzelposten zum Fakturabeleg? (1 richtige Antwort)
+---+
+1 Springen > Einzelposten
+2 Umfeld,
+3 Übersicht der
+4 Belegfluss
+
+#
+1 20 Was sollten Sie beim Zuordnen von Organisationseinheiten in der Buchhaltung beachten? (2 richtige Antworten)
+-++-
+1 Das Werk ist dem Kostenrechnungskreis zugeordnet
+2 Einem Kostenrechnungskreis können mehrere Buchungskreise zugeordnet sein
+3 Einem Ergebnisbereich können mehrere Kostenrechnungskreise zugeordnet sein
+4 Die Profitcenter-Rechnung in der Hauptbuchhaltung (neu) ist einem Buchungskreis zugeordnet
+
+#
+2 21 Welches der folgenden Objekte wird stets statistisch gebucht? (1 richtige Antwort)
++---
+1 Profitcenter
+2 Kostenstelle
+3 Innenauftrag
+4 Projekt
+
+#
+2 22 Welche der folgenden Funktionen bietet die SAP-Fiori-App "Kostenstellen – Ist"? (3 richtige Antworten)
+-+--+
+1 Zur Istkostenschichtung der Kalkulation navigieren
+2 Zuordnung von Merkmalen und Kennzahlen zu Berichtszeilen und -spalten
+3 Hinzufügen von
+4 Zur Einzelkalkulation der Kostenstelle navigieren
+5 Zum Infoblatt der Kostenstelle navigieren
+
+#
+2 23 Was sind einige Aspekte von Organisationseinheiten? (2 richtige Antworten)
+-++-
+1 Der Personalbereich ist dem Werk zugeordnet
+2 Der Mandant ist die Organisationseinheit auf der höchsten Ebene
+3 Die Materialbestände innerhalb eines Werks werden anhand ihres Lagerorts unterschieden
+4 Die Mitarbeitergruppe und der Personalbereich sind identisch
+
+#
+2 24 Auf welche Weise können Sie auf das SAP Fiori Launchpad zugreifen? (2 richtige Antworten)
+--++
+1 SAP GUI
+2 SAP Enterprise Portal
+3 SAP Business Client
+4 Web-Browser
+
+#
+2 25 Welche der folgenden Funktionen sind in der Lösung "Operative Beschaffung" enthalten? (3 richtige Antworten)
++++--
+1 Bestellkooperation
+2 Self-Service-Anforderung
+3 Beschaffung
+4 Rechnungsmanagement
+5 Rechnungsbearbeitung
+
+#
+2 26 Was müssen Sie auswählen, um einen Planprimärbedarf anzulegen? (1 richtige Antwort)
+-+--
+1 Disponent, Werk, Materialnummer
+2 Dispositionsbereich, Version, Planungsperiode
+3 Dispositionsbereich
+4 Dispositionsbereich, Produktionsversion, Planungsperiode
+
+#
+2 27 Eine App, die in einem Katalog enthalten ist, dem Sie zugeordnet sind, wird nicht in ihrem SAP Fiori Launchpad angezeigt. Woran könnte das liegen? (1 richtige Antwort)
++--
+1 Die App ist in keiner ihrer verfügbaren Kachelgruppen enthalten
+2 Es handelt sich nicht um eine native App
+3 Die App hat kein Aktivierungskennzeichen
+
+#
+2 28 Welches Analysewerkzeug kann automatische Vorschläge für die Datenanreicherung bereitstellen? (1 richtige Antwort)
+-+--
+1 SAP Analysis für Microsoft Office
+2 SAP Lumira
+3 Analytische SAP-Fiori-Apps
+4 SAP Lumira, Designer Edition
+
+#
+2 29 Welche Option steht SAP-Kunden zur Verfügung, die keine eigene komplexe IT-Landschaft verwalten möchten? (1 richtige Antwort)
++---
+1 Public Cloud Services (SAP S/4HANA Cloud)
+2 On-Premise Computing
+3 Private Cloud
+4 S/4HANA On Premise
+
+#
+2 30 Welche Anwendung bietet sowohl Servicemanagement als auch -beschaffung? (1 richtige Antwort)
+----
+1 SAP
+2 SAP Ariba
+3 SAP SuccessFactors Onboarding
+4 SAP Concur
+
+#
+2 31 Was sind einige Merkmale der Zuordnung von Stammdaten zu Organisationseinheiten? (2 richtige Antworten)
+-++-
+1 Der Vertriebsbereich umfasst ausschließlich die Verkaufsorganisation und den Vertriebsweg
+2 Die Parameter für die Bestandsbewertung sind werksbezogen
+3 Die Sichten in einem Materialstamm können mehreren Organisationseinheiten zugeordnet werden
+4 Alle logistischen Stammdaten sind werksbezogen
+
+#
+2 32 Warum hat die SAP-HANA-Datenbank einen geringeren Speicherbedarf? (2 richtige Antworten)
+-++-
+1 Es wurden automatische Data Marts implementiert
+2 Tabellen werden automatisch komprimiert
+3 Zahlreiche Tabellen wurden eliminiert
+4 Die relationale Datenbank ist im Hintergrund verfügbar
+
+#
+2 33 Welche der folgenden Bereiche umfasst SAP S/4HANA Strategic Analytics? (3 richtige Antworten)
++-+-+
+1 SAP Analysis für Microsoft Office
+2 SAP Strategic Enterprice Management
+3 SAP Lumira, Designer Edition
+4 SAP Smart Business
+5 SAP Business Warehouse
+
+#
+2 34 Welche BI-Werkzeuge werden Anwendungsexperten in SAP S/4HANA Embedded Analytics zur Verfügung gestellt? (2 richtige Antworten)
++-+-
+1 KPI-Modellierungs-Apps
+2 Abfrage-Browser
+3 Query Designer
+4 Analytische SAP
+
+#
+2 35 Was sind einige Designprinzipien von SAP Fiori? (3 richtige Antworten)
+-+-++
+1 Funktionale Möglichkeiten
+2 Einfachheit
+3 Reaktionsfähigkeit
+4 Rollenbasierter Ansatz
+5 Flexibilität
+
+#
+2 36 Wodurch zeichnen sich die Embedded Analytics Funktionen in S/4HANA aus? (2 richtige Antworten)
++--+
+1 Operative Analysefunktionen
+2 Extensive BI-Szenarien
+3 Langfristige Managementanalysen
+4 SAP Smart Business Cockpit
+
+#
+2 37 Welcher der folgenden Werte ist beim Anlegen einer Bestellung optional? (1 richtige Antwort)
+-+--
+1 Einkaufsorganisation
+2 Lagerort
+3 Kreditor
+4 Werk
+
+#
+2 38 Wie können Sie die Benutzungsoberfläche des SAP GUI personalisieren? (3 richtige Antworten)
+-+-+-
+1 Neue Transaktionscodes anlegen
+2 Statusmeldungen in Dialogfenstern anzeigen
+3 Bevorzugte Transaktionen in verschiedenen
+4 Das Layout des Bilds: SAP EASY ACCESS ändern
+5 Farben sowie das Verhalten der Bilder und
+
+#
+2 39 Welche der folgenden Analysewerkzeuge sind in der Lizenz für SAP S/4HANA enthalten? (2 richtige Antworten)
++--+
+1 Abfrage-Browser
+2 SAP Lumina
+3 SAP Analysis für Microsoft Office
+4 Analytische SAP-Fiori-Apps
+
+#
+2 40 Was ist bei der Freigabe von Fertigungsaufträgen möglich? (2 richtige Antworten)
++-+-
+1 Ein Auftrag kann vollständig freigegeben werden
+2 Die Auftragsfreigabe für mehrere Aufträge ist nur für Sammelaufträge möglich
+3 Alle Aufträge in allen Werken können zeitgleich freigegeben werden
+4 Die zeitgleiche
+
+#
+2 41 Ein Benutzer möchte Kacheln aus Bereichsseiten im SAP Fiori Launchpad anzeigen. Welche Objekte müssen Sie diesem Benutzer unter Verwendung von Rollen zuordnen? (2 richtige Antworten)
+-+-+
+1 Gruppen
+2 Bereiche
+3 Seiten
+4 Kataloge
+
+#
+2 42 Welche Personalisierungsoptionen sind im SAP Fiori Launchpad verfügbar? (2 richtige Antworten)
++--+
+1 Hinzufügen und Entfernen von Anwendungen in Kachelgruppen
+2 Ändern der Schriftart
+3 Hinzufügen und Entfernen von Katalogen
+4 Ändern von Apps gefilterte Berichtsergebnisse
+
+#
+3 43 Welches Objekt kann mittels Umsatzkostenverfahren oder Gesamtkostenverfahren analysiert werden? (1 richtige Antwort)
+---+
+1 Kostenstelle
+2 Innenauftrag
+3 Projekt
+4 Profitcenter
+
+#
+3 44 Welche Merkmale weist der Client für mehrdimensionales Reporting (MDRC) auf? (2 richtige Antworten)
+-++-
+1 Er ist nur für die Cloud-Version verfügbar
+2 Er basiert auf ABAP Web Dynpro und nutzt das
+3 Er ist für die Cloud- und die On-Premise-Version verfügbar
+4 Er enthält vordefinierte Kennzahlen (KPIs)
+
+#
+3 45 Welche der folgenden Faktoren sind Gründe dafür, dass die digitale Welt komplexer und nicht einfacher wird? (3 richtige Antworten)
++-+-+
+1 Die Globalisierung und Ausbreitung von Unternehmensnetzwerken
+2 Die SAP-HANA-Datenbank
+3 Das Internet der Dinge
+4 Spaltenorientierte Datenbankstrukturen
+5 Die exponentielle Zunahme digitaler Daten
+
+#
+3 46 Eine Kachel von einer Bereichsseite wird nicht im SAP Fiori Launchpad für einen Benutzer angezeigt. Woran kann das liegen? (2 richtige Antworten)
+++++
+1 Die Seite ist der
+2 Der Bereich ist der
+3 Die Kachel ist der
+4 Die Seite ist in dem Bereich nicht sichtbar
+
+#
+3 47 Welche Analysefunktionen bietet SAP Smart Business? (1 richtige Antwort)
++---
+1 Vordefinierte Kennzahlen (KPIs)
+2 Visualisierung von Datenmustern
+3 Filtern von Anwendungskomponenten
+4 Storyboards
+
+#
+3 48 Was sind interne Systemfunktionen der SAP-HANA-Datenbank? (2 richtige Antworten)
++-+-
+1 Analysen und Prognosen
+2 Stammdatenpflege
+3 Text-Mining
+4 Drucken von Einzelposten
+
+#
+3 49 Welche der folgenden Einheiten sind Geschäftspartnertypen? (3 richtige Antworten)
+--+++
+1 Einzelunternehmen
+2 Konzern
+3 Person
+4 Organisation
+5 Gruppe
+
+#
+3 50 Wie können Sie den Transaktionscode einer Transaktion im SAP GUI ermitteln? (2 richtige Antworten)
+-+-+
+1 Den Transaktionscode aus dem Business Workplace lesen
+2 Den Transaktionscode in der Statusleiste anzeigen lassen
+3 Den Transaktionscode in der Titelleiste lesen
+4 Den Transaktionscode in der Anwendung ermitteln, indem Sie "System – Status" wählen
+
+#
+3 51 Was sind die wichtigsten Aspekte von Sachkonten? (2 richtige Antworten)
+--+-
+1 In SAP S/4HANA können Sie im Hauptbuch auf ein Sachkonto der Kontoart "Sekundärkostenart" buchen
+2 Ein Sachkonto mit der Kontoart "Neutraler Aufwand" wird nur in der
+3 Ein Sachkonto der Kontoart "Primärkosten" erfordert beim Buchen eine kostenrechnungsrelevante Kontierung
+4 Sekundärkosten werden im Controlling und in der
+
+#
+3 52 Welche der folgenden Elemente können einer Favoritenliste im SAP GUI hinzugefügt werden? (3 richtige Antworten)
+-++-+
+1 E-Mail-Adressen
+2 Internetadressen
+3 Verknüpfungen zu Dateien
+4 Kurzschlüssel
+5 Transaktionen
+
+#
+3 53 Was sind die Merkmale eines Kontenplans? (2 richtige Antworten)
+--++
+1 eder Buchungskreis verwendet exklusiv einen eigenen operativen Kontenplan
+2 Ein Kontenplan enthält nur Sachkonten, die keine Konteninformationen (Kostenart) aufweisen
+3 Der Kontenplan ist ein Verzeichnis aller Sachkonten, die von einem oder mehreren Buchungskreisen gemeinsam verwendet werden
+4 Ein Kontenplan kann mehreren Buchungskreisen zugeordnet sein
+
+#
+3 54 Welche Optionen für die Navigation im SAP GUI stehen zur Verfügung? (2 richtige Antworten)
+--+-
+1 Auf die gewünschte App klicken
+2 Einträge aus der
+3 Einen Transaktionscode in das Befehlsfeld eingeben
+4 Programm-ID in das Befehlsfeld eingeben
+
+#
+3 55 Welche der folgenden technologischen Vorteile (Hardware) haben zur Entwicklung von SAP S/4HANA beigetragen? (3 richtige Antworten)
++-+-+
+1 Optimierter Cache (schnellere Übertragung)
+2 Optimierte Schnittstellentechnologie
+3 Die Verbesserung von Cloud-Computing-Technologien
+4 Verbundene Datenbanken
+5 Die Vergrößerung von Serverlandschaften (z.B. Prozessorleistung)
+
+#
+3 56 Eine App wird nicht im App-Finder angezeigt. Woran könnte das liegen? (1 richtige Antwort)
+++-
+1 Sie haben keine
+2 Die App ist in keinem der ihnen zur Verfügung stehenden Kataloge enthalten
+3 Die App wurde im System gesperrt
+
+#
+3 57 Welche Objekte des SAP Fiori Launchpad können einander zugeordnet werden? (1 richtige Antwort)
++---
+1 Rollen und Bereiche
+2 Gruppen und Seiten
+3 Kataloge und Seiten
+4 Bereiche und Gruppen
+
+#
+3 58 Welche der folgenden Benutzertypen lassen sich bezüglich ihrer Anforderung an die Benutzeroberfläche unterscheiden? (3 richtige Antworten)
+-++-+
+1 Netzwerkexperte
+2 Gelegentlicher Benutzer
+3 Experte
+4 Datenbankadministrator
+5 Entwickler
+
+#
+3 59 Was ist der nächste Schritt nach der Kommissionierung? (1 richtige Antwort)
+---+
+1 Aktualisierung der Liefermenge
+2 Fakturabeleg
+3 Aktualisierung des Kundenauftrags
+4 Warenausgang
+
+#
+3 60 Was sind einige Merkmale des SAP-Fiori-Designs "Belize"? (2 richtige Antworten)
+++--
+1 Zusätzliche visuelle Schichten
+2 Mehr Details in Mikrointeraktionen
+3 Auswahlmöglichkeiten für die Tastaturbelegung
+4 Dynamisierung von App-Prozessen
+
+#
+1 1 Welche Aussagen treffen auf die Begriffe S/4HANA und SAP HANA zu? (2 richtige Antworten)
++--+
+1 SAP S/4HANA ist ein ERP-System der nächsten, der 4. Generation von SAP
+2 SAP HANA ist ein ERP-System der nächsten, der 4. Generation von SAP
+3 SAP S/4HANA ist die neue Datenbank der Lösung S/4HANA
+4 SAP HANA ist der Name der Datenbank, die in S/4HANA Anwendung findet
+
+#
+1 2 Endbenutzer können in SAP Fiori eigenständig Personalisierungen durchführen. Welche sind das zum Beispiel? (4 richtige Antworten)
+-+++-
+1 allgemeine Einstellung auf dem
+2 neue Kachelgruppen anlegen und Kacheln hinzufügen
+3 Kacheln aus einer Kachelgruppe in eine andere Kachelgruppe umsetzen
+4 Kacheln als Link ablegen
+5 Einzelrollen sich selber zuordnen und für das
+
+#
+1 3 Die Einstellungen für das FLP gliedern sich in 3 Ebenen, wie heißen diese? (3 richtige Antworten)
++++-
+1 System (mit der Konfiguration)
+2 Mandant (mit dem Customizing)
+3 Benutzer (mit der Personalisierung)
+4 Buchungskreis (mit dem Customizing)
+
+#
+1 4 Die Konfiguration auf der Basisebene (System) besteht aus Einstellungen, die ... (1 richtige Antwort)
++-
+1 für das gesamte System gelten
+2 konkret für einen Mandaten gelten
+
+#
+1 5 Die Funktionen im "Benutzeraktionsmenü" können je Benutzerrolle konfiguriert werden? (1 richtige Antwort)
++-
+1 Richtig
+2 Falsch
+
+#
+1 6 Die Anzeige der 'letzten Benutzeraktivitäten' im Benutzeraktionsmenü kann ... (2 richtige Antworten)
+++-
+1 aktiviert werden
+2 deaktiviert werden
+3 nicht deaktiviert werden
+
+#
+1 7 Was bedeutet die Funktion "Bereiche verwenden" - in Einstellungen des Benutzeraktionsmenü aktivieren? (1 richtige Antwort)
+--
+1 die Apps im
+2 die Apps im
+
+#
+1 8 Über den Business Client 6.0 oder höher besteht die Möglichkeit, zum Hinzufügen von Systemverbindungen (über das SAP-Logon-Programm) für das FLP? (1 richtige Antwort)
++-
+1 Richtig
+2 Falsch
+
+#
+1 9 Es ist in S/4HANA nicht möglich, das gleiche Layout (Belize Theme) neben dem FLP auch für das SAP GUI zu nutzen? (1 richtige Antwort)
++-
+1 Falsch
+2 Richtig
+
+#
+1 10 Für Administrations-/Customizing-Aktivitäten sind (weiterhin) SAP-GUI-Transaktionen, wie SPRO erforderlich? (2 richtige Antworten)
++--
+1 Richtig
+2 Falsch
+3 mit einzelnen Ausnahmen für das Thema "Konfiguration" kann der
+
+#
+1 11 Diverse Transaktionen müssen mit der SAP GUI weiterverwendet werden, wenn es hierzu noch keine entwickelten und freigegebenen Apps für das FLP gibt? (1 richtige Antwort)
++-
+1 Richtig
+2 Falsch
+
+#
+1 12 Die Strategie von SAP ist für S/4HANA, dass für diverse wenige Geschäftsanwendungen (Transaktionen) keine Apps entwickelt werden, da diese Anwendungen in den Dynpro-Masken der SAP GUI besser skalieren.
+(R oder F) (1 richtige Antwort)
++-
+1 Richtig
+2 Falsch
+
+#
+1 13 Für welche SAP-Begriffe sollte der User darüber nachdenken, diese als Standardwert im FLP zu sichern? (4 richtige Antworten)
++++-+-
+1 Buchungskreis
+2 Werk
+3 operativer Kontenplan
+4 Beleg 1900000022
+5 Einkaufsorganisation
+6 Lieferant T-AV##
+
+#
+1 14 Es besteht die Möglichkeit, aus 2 verschiedenen Katalogen 2 verschiedene Kacheln einer Kachelgruppe im FLP zuzuordnen? (1 richtige Antwort)
++-
+1 Richtig
+2 Falsch
+
+#
+1 15 Eine Kachel, die nicht einer Kachelgruppe zugeordnet ist, kann der User dennoch mit geeigneten anderen Möglichkeiten (u. a. mit dem APP-Finder) aufrufen und die App bearbeiten oder einer Kachelgruppe
+zuzuordnen? (1 richtige Antwort)
++-
+1 ja
+2 nein
+
+#
+1 16 Welche Aussagen treffen für FLP-Kataloge zu? (2 richtige Antworten)
++-+
+1 ein Katalog repräsentiert einen Lösungsbereich, z. B. Hauptbuch-Buchungsvorgänge
+2 ein Katalog hat keine direkte Verbindung zu den Apps
+3 ein Katalog hat eine direkte Verbindung zu den Apps
+
+#
+1 17 Apps, Kacheln und Kataloge werden von SAP bereitgestellt .. (1 richtige Antwort)
+-+
+1 es besteht keine Möglichkeit, neue Apps, Kacheln und gegebenenfalls Kataloge als Kunde anzulegen
+2 es besteht die Möglichkeit, neue Apps, Kacheln und gegebenenfalls Kataloge als Kunde anzulegen
+
+#
+1 18 Die "Object Page" ermöglicht es dem User, das Anzeigen, Bearben und Anlagen eines Business-Objektes, zum Beispiel eines Stammsatzes? (1 richtige Antwort)
++-
+1 Richtig
+2 Falsch
+
+#
+1 19 Welche Dimensionen definieren SAP Fiori? (3 richtige Antworten)
++++-
+1 Konzept
+2 Design
+3 Technologie
+4 Lebenszyklus
+
+#
+1 20 SAP Fiori bietet die Möglichkeit auf mehreren Geräten einzusetzen. Welche Aussage ist richtig? (1 richtige Antwort)
++-
+1 Der Einsatz eines Desktop PC ist weiterhin möglich
+2 Der Einsatz eines Desktop PC ist nicht mehr möglich
